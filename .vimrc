@@ -8,6 +8,7 @@ set autoindent
 set showmatch
 set tabstop=2
 set shiftwidth=2
+set showcmd
 
 inoremap <S-Tab> <C-d>
 nnoremap <Tab> >>
