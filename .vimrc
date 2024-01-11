@@ -6,6 +6,8 @@ syntax on
 set number
 set autoindent
 set showmatch
+set tabstop=2
+set shiftwidth=2
 
 inoremap <S-Tab> <C-d>
 nnoremap <Tab> >>
